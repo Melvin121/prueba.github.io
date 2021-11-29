@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Secular+One&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.menu{
+    height: 90vh;
+}
+
+html{
+    
+    background-color: rgb(17, 24, 39);
+}
